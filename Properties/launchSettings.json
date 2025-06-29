@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "semanticKernelConsole": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OPENAI_API_KEY": ""
+      }
+    }
+  }
+}
